@@ -28,7 +28,7 @@ body{
   }
 
 
-  .register input, .login input{
+  .register input, .login input, .add-resturant input, .update-resturant input{
     width: 300px;
     height: 40px;
     padding-left: 20px;
@@ -39,7 +39,7 @@ body{
     border: 1px solid skyblue;
 }
 
-.register button, .login button{
+.register button, .login button, .add-resturant button, .update-resturant button{
     width: 320px;
     height: 40px;
     border: 1px solid skyblue;

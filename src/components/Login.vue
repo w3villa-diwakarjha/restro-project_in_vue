@@ -1,4 +1,5 @@
 <template>
+    <Header/>
     <img src="../assets/logoresturant.png"/>
     <h1>Welcome to Login Page</h1>
 
@@ -12,9 +13,13 @@
     </div>
 </template>
 <script>
+import Header from '../components/Header.vue'
 import axios from 'axios';
 export default {
     name: 'Login',
+    components: {
+        Header
+    },
     data()
     {
         return {

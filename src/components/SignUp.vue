@@ -1,4 +1,5 @@
 <template>
+    <Header/>
     <img src="../assets/logoresturant.png"/>
     <h1 class="Hi">Welcome to the SignUp Page</h1>
     <div class="register">
@@ -14,9 +15,12 @@
 
 <script>
 import axios from "axios";
-
+import Header from '../components/Header.vue'
 export default {
     name: "SignUp",
+    components:{
+        Header
+    },
     data()
     {
         return{

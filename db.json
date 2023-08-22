@@ -66,5 +66,13 @@
       "name": "Dev",
       "id": 11
     }
+  ],
+  "resturant": [
+    {
+      "id": 1,
+      "name": "KFC",
+      "Address": "Noida Sec-45",
+      "Contact": "1122"
+    }
   ]
 }
