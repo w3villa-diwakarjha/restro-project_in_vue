@@ -1,0 +1,70 @@
+{
+  "users": [
+    {
+      "name": "Diwakar Jha",
+      "email": "diwakar@gmail.com",
+      "password": "password",
+      "id": 1
+    },
+    {
+      "name": "Prabhakar Jha",
+      "email": "prabhakar@gmail.com",
+      "password": "password1",
+      "id": 2
+    },
+    {
+      "email": "ganesh@gmail.com",
+      "password": "1234",
+      "name": "Ganesh Jha",
+      "id": 3
+    },
+    {
+      "email": "ganesh@gmail.com",
+      "password": "12345",
+      "name": "Dj Jha",
+      "id": 4
+    },
+    {
+      "email": "diwakar@gmail.com",
+      "password": "password",
+      "name": "Diwakar Jha",
+      "id": 5
+    },
+    {
+      "email": "peter@gmail.com",
+      "password": "1234",
+      "name": "peter",
+      "id": 6
+    },
+    {
+      "email": "peter@gmail.com",
+      "password": "1234",
+      "name": "peter",
+      "id": 7
+    },
+    {
+      "email": "peter@gmail.com",
+      "password": "1234",
+      "name": "peter",
+      "id": 8
+    },
+    {
+      "email": "peter@gmail.com",
+      "password": "12345",
+      "name": "peter",
+      "id": 9
+    },
+    {
+      "email": "anil@gmail.com",
+      "password": "12345",
+      "name": "Anil",
+      "id": 10
+    },
+    {
+      "email": "dk@gmail.com",
+      "password": "1234",
+      "name": "Dev",
+      "id": 11
+    }
+  ]
+}
